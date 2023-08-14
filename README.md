@@ -14,3 +14,6 @@ Pack all the stuff you may need into the switch no matter you have mess it up or
 * Inculded all the SigPatch and keys
 * If you have patch your switch, you may need to take a look in this being using this pack : https://nh-server.github.io/switch-guide/
 * Remember, YOU SHOULD ALWAYS CREATE A EMUMMC ON THE SWITCH : https://nh-server.github.io/switch-guide/user_guide/emummc/making_emummc/
+
+## Download
+   https://github.com/thomasbad/MKAA-AIO-Atmosphere-Pack/releases
