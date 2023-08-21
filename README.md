@@ -12,7 +12,7 @@ Pack all the stuff you may need into the switch no matter you have mess it up or
 * Only simple theme, default theme or no theme in all tools
 * Inculded all kind of tools you may need when you are in game or your switch is crashed.
 * Inculded all the SigPatch and keys
-* If you have patch your switch, you may need to take a look in this being using this pack : https://nh-server.github.io/switch-guide/
+* If you have not yet patched your switch, you may need to take a look in this before using this pack : https://nh-server.github.io/switch-guide/
 * Remember, YOU SHOULD ALWAYS CREATE A EMUMMC ON THE SWITCH : https://nh-server.github.io/switch-guide/user_guide/emummc/making_emummc/
 
 ## Download
